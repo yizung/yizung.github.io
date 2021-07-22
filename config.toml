@@ -1,4 +1,4 @@
-baseURL = "https://yizung.github.io"
+baseURL = "https://yizung.me"
 title = "Just a blog"
 theme = "m10c"
 paginate = 8
