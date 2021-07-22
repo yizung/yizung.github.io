@@ -1,0 +1,9 @@
+{{ with .Site.Params.repo }}
+<script src="https://utteranc.es/client.js"
+        repo="{{ . }}"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+{{ end }}
